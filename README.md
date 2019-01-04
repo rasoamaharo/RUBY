@@ -1,1 +1,1 @@
-Le dossier contient tous les exercices y compris l'exo_20
+Le dossier contient tous les exercices y compris l'exercice 20 avec le pyramide
