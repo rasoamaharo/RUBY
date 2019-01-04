@@ -1,11 +1,10 @@
 puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
 puts ">"
-x=gets.chomp.to_i
+n=gets.chomp.to_i
 puts "Voici le pyramide"
-y=x
-star="*"
-puts star
-	x.times do
-	star+="*"
- 	puts star
+etoile="*"
+puts etoile
+	n.times do
+	etoile+="*"
+ 	puts etoile
 end
